@@ -54,7 +54,7 @@ class Toasty {
 }
 
 /// APIs
-const BaseURL = 'http://54.165.154.132:4000/users';
+const BaseURL = '';
 const LOGIN = "$BaseURL/login";
 const LOGOUT = "$BaseURL/log_out";
 const ADD_PROJECT = "$BaseURL/add_project";
